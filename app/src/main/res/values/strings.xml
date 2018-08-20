@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LastFM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="mbid">mbid</string>
+    <string name="name">Name:</string>
+    <string name="listeners">Listeners:</string>
+    <string name="search">Search</string>
+    <string name="search_an_artist">Search an artist …</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="album_detail">Album detail</string>
+    <string name="album">album</string>
+    <string name="insert_album_locally">insert_album_locally</string>
+    <string name="delete_album_locally">delete_album_locally</string>
+    <string name="tracks">tracks</string>
+    <string name="check_album_locally">check_album_locally</string>
+    <string name="album_saved">Album saved successfully</string>
+    <string name="album_deleted">Album deleted successfully</string>
+    <string name="select_albums_locally">select_albums_locally</string>
+    <string name="best_albums">Best Albums</string>
+    <string name="history">History</string>
+</resources>
