@@ -1,7 +1,7 @@
 # last_fm_task
 last_fm_task
 
-While the task dont suggest to use recyclerView or gridView for the main screen fragment and overview fragment I choosed to use:
+While the task dont suggest to use recyclerView or gridView for the main screen fragment and albums overview fragment I choosed to use:
 
 main screen fragment: recyclerView
 
