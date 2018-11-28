@@ -1,7 +1,7 @@
 # last_fm_task
 last_fm_task
 
-21th September 2018: When there is a will there's a way ...
+<b>21th September 2018:</> When there is a will there's a way ...
 
 While the task dont suggest to use recyclerView or gridView for the main screen fragment and albums overview fragment I choosed to use:
 
