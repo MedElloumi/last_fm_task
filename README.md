@@ -1,7 +1,11 @@
 # last_fm_task
 last_fm_task
 
-**21th September 2018:** When there is a will there's a way ...
+What happened after solving this task ?
+
+I have been invited to an on site interview. I have been asked to solve a small puzzle, The interview atmosphere was positive.
+
+An experience that I learnt a lot from.
 
 While the task dont suggest to use recyclerView or gridView for the main screen fragment and albums overview fragment I choosed to use:
 
